@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 <!-- Todo -->
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/pixel-perfect-qr-code-component-challenge-KrBFHviT-d)
 - Live Site URL: [QR code component live](https://danijel374.github.io/fem-qr-code-component/)
 
 ## My process
